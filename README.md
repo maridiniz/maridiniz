@@ -15,7 +15,7 @@ Seção com a lista de projetos por tecnologia.
 
 
 #### Projetos em R:
- - [`Pinguíns de Palmer`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/pinguins.md)
+ - [`Explorando o pacote dplyr`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/dplyr.md)
 
 #### Projetos em Python:
  - [`Ingestão de dados com Python`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/data_ingestion.md)
