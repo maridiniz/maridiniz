@@ -11,13 +11,14 @@ evolução ao longo da minha carreira em dados.
 
 
 ## Projetos
-Nesta seção eu listo e descrevo brevemente os projetos e as tecnologias utilizadas para resolução dos casos.
+Seção com a lista de projetos por tecnologia.
 
 
 #### Projetos em R:
  - [`Pinguíns de Palmer`](https://github.com/maridiniz/Data_Analysis_Portfolio/blob/dcd3c0d7175e27b75411d516e288f87612142af0/projects/pinguins.md)
 
-#### Projetos em Python
+#### Projetos em Python:
+ - [`Ingestão de dados`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/data_ingestion.md)
 
 
 ## Formação Acadêmica
