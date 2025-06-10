@@ -31,6 +31,7 @@ evoluir em nossas carreiras também é muito válido, e compartilhar nossas cert
 - [Google data analytics profissional certificate](https://www.credly.com/badges/69c88ebf-7703-4fbb-896f-eb8dc1c7a757/public_url) (Nov 2024) (Coursera - Google)
 - [Google AI Essentials](https://www.credly.com/badges/ee309f0a-0bb2-4b03-a50c-d08f435326b9/public_url) (Nov 2024) (Coursera - Google)
 - [EF SET](https://cert.efset.org/bh2Mqp) (Nov 2024)
+- [Linguagem de Programação R para Ciência de Dados: Formação Básica](https://www.linkedin.com/learning/certificates/f7ae83101511302ebaa55e435cca35a8e7ce2d5b3da75afaaca81a34fefb129a) (Dez 2024)
 
 
 ## Redes
