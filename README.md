@@ -9,38 +9,15 @@ e adquirir novas skills, a fim de me tornar um profisional ímpar. Por esse moti
 com intúito de compartilhar meu trabalho e assim demonstrar minhas habilidade, e de alguma maneira de medir minha
 evolução ao longo da minha carreira em dados.
 
-## índice
-
-- [Introdução](https://github.com/maridiniz/Data_Analysis_Portfolio?tab=readme-ov-file#introdu%C3%A7%C3%A3o)
-
-- [Projetos](https://github.com/maridiniz/Data_Analysis_Portfolio?tab=readme-ov-file#projetos)
-  - R
-     - [Análise prática dos pinguins de Palmer](https://github.com/maridiniz/Data_Analysis_Portfolio/blob/dcd3c0d7175e27b75411d516e288f87612142af0/projects/pinguins.md)
-
-- [Formação acadêmica](https://github.com/maridiniz/Data_Analysis_Portfolio/tree/master?tab=readme-ov-file#forma%C3%A7%C3%A3o-acad%C3%AAmica)
-- [Certificações](https://github.com/maridiniz/Data_Analysis_Portfolio/tree/master?tab=readme-ov-file#certifica%C3%A7%C3%B5es)
-- [Redes](https://github.com/maridiniz/Data_Analysis_Portfolio/tree/master?tab=readme-ov-file#redes)
 
 ## Projetos
 Nesta seção eu listo e descrevo brevemente os projetos e as tecnologias utilizadas para resolução dos casos.
 
 
-### Análise prática sobre os pinguíns de Palmer
-**Código** [`Pinguíns de Palmer`](https://github.com/maridiniz/Data_Analysis_Portfolio/blob/dcd3c0d7175e27b75411d516e288f87612142af0/projects/pinguins.md)
+### Projetos em R:
+ - [`Pinguíns de Palmer`](https://github.com/maridiniz/Data_Analysis_Portfolio/blob/dcd3c0d7175e27b75411d516e288f87612142af0/projects/pinguins.md)
 
-**Objetivo** Descrever as diferenças morfológicas dos pinguíns machos e fêmeas e a variabilidade das espécies no ambiente.
-
-**Descrição** O banco de dados utilizado no projeto contém informações sobre três espécies de pinguíns que vivem nos arredores da ilha de palmer, como:
-sexo, tamanho de nadadeira, comprimento e profundidade do bico, massa corporal e as ilhas onde essas espécies vivem.
-
-**Habilidade** Limpeza, transformação e visualização de dados, análise exploratória de dados.
-
-**Tecnologia** R, dplyr, ggplot2.
-
-
-**Resultado** Fica muito claro e evidente o dismorfismo sexual dos pinguíns fêmeas em relação aos machos, não apenas sobre o peso corporal, 
-mas também o tamanho dos bicos e nadadeiras. Outra constatação é a frequência das espécies em determinadas ilhas; 
-As espécies Gentoo e Chistrap são encontrados com mais frequência nas ilhas: Biscoe e Dream respectivamente, enquanto os pinguíns Adelie, são observados em todas as três ilhas.
+### Projetos em Python
 
 
 ## Formação Acadêmica
