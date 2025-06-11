@@ -15,10 +15,10 @@ Seção com a lista de projetos por tecnologia.
 
 
 #### Projetos em R:
- - [`Explorando o pacote dplyr`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/dplyr.md)
+ - [`Explorando o pacote dplyr`](https://github.com/maridiniz/explorando-dplyr)
 
 #### Projetos em Python:
- - [`Ingestão de dados com Python`](https://github.com/maridiniz/Data_Analytics/blob/main/projects/data_ingestion.md)
+ - [`Ingestão de dados com Python`](https://github.com/maridiniz/ingestao-de-dados-ftp)
 
 
 ## Formação Acadêmica
