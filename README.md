@@ -1,13 +1,6 @@
 ## Olá, sejam bem-vindos ao GitHub!👋
 
-Sou profissional de dados com forte capacidade analítica e pensamento crítico. Tenho um background em dados como analista de prevenção
-a fraude, onde tive a oportunidade de adquirir e desenvolver um forte fundamento em dados e usá-los para descobrir insights significativos, 
-assim como um olhar mais crítico, habilidades investigativas, pensamento estruturado e análítico. 
-
-Estou a caminho de concluir minha graduação em ciência de dados para enriquecer conhecimento
-e adquirir novas skills, a fim de me tornar um profisional ímpar. Por esse motivo criei este portfolio,
-com intúito de compartilhar meu trabalho e assim demonstrar minhas habilidade, e de alguma maneira de medir minha
-evolução ao longo da minha carreira em dados.
+Profissional orientada a detalhes e em transição para Ciência de Dados, com um forte pensamento analítico aprimorado através de experências em prevenção a fraude e atendimento ao cliente. Habilidosa em Python, R e análise estatística com experência prática em projetos pessoais listados abaixo. Atualmente estou cursando Ciência de Dados e estou em busca da minha primeira oportunidade na área como estagiária ou júnior.
 
 
 ## Projetos
