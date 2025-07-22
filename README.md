@@ -12,6 +12,7 @@ Seção com a lista de projetos por tecnologia.
 
 #### Projetos em Python:
  - [`Ingestão de dados com Python`](https://github.com/maridiniz/ingestao-de-dados-ftp)
+ - [`Aplicação RAG Simples`](https://github.com/maridiniz/simple-rag-application)
 
 
 ## Formação Acadêmica
