@@ -4,13 +4,12 @@ Profissional orientada a detalhes e em transição para Ciência de Dados, com u
 
 
 ## Projetos
-Seção com a lista de projetos por tecnologia.
 
 
-#### Projetos em R:
+#### R:
  - [`Explorando o pacote dplyr`](https://github.com/maridiniz/explorando-dplyr)
 
-#### Projetos em Python:
+#### Python:
  - [`Ingestão de dados com Python`](https://github.com/maridiniz/ingestao-de-dados-ftp)
  - [`Aplicação RAG Simples`](https://github.com/maridiniz/simple-rag-application)
 
