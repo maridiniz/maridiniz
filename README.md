@@ -12,6 +12,7 @@ Profissional orientada a detalhes e em transição para Ciência de Dados, com u
 #### Python:
  - [`Ingestão de dados com Python`](https://github.com/maridiniz/ingestao-de-dados-ftp)
  - [`Aplicação RAG Simples`](https://github.com/maridiniz/simple-rag-application)
+ - [`Análise explora de dados (EDA) da RAIS`](https://github.com/maridiniz/EDA-dados-rais)
 
 
 ## Formação Acadêmica
