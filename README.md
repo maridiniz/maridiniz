@@ -7,7 +7,7 @@ Profissional orientada a detalhes e em transição para Ciência de Dados, com u
 
 
 #### R:
- - [`Explorando o pacote dplyr`](https://github.com/maridiniz/explorando-dplyr)
+
 
 #### Python:
  - [`Ingestão de dados com Python`](https://github.com/maridiniz/ingestao-de-dados-ftp)
